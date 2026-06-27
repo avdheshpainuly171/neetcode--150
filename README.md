@@ -4,16 +4,16 @@
 
 ## Overall Progress
 
-`[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2/150`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3/150`
 
-**2 / 150 solved (1%)**
+**3 / 150 solved (2%)**
 
 ## By Topic
 
 | Topic | Done | Total | % |
 |-------|------|-------|---|
 | Arrays & Hashing | 0 | 9 | 0% |
-| Two Pointers | 1 | 5 | 20% |
+| Two Pointers | 2 | 5 | 40% |
 | Sliding Window | 1 | 6 | 17% |
 | Stack | 0 | 7 | 0% |
 | Binary Search | 0 | 7 | 0% |
@@ -35,8 +35,9 @@
 
 | # | Title | Topic | Difficulty | Date |
 |---|-------|-------|------------|------|
+| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | 🟡 Medium | 27/6/2026 |
 | 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | 🟡 Medium | 27/6/2026 |
 | 15 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Sliding Window | 🟢 Easy | 27/6/2026 |
 
 ---
-*Last updated: Sat, 27 Jun 2026 11:20:54 GMT*
+*Last updated: Sat, 27 Jun 2026 11:21:09 GMT*
