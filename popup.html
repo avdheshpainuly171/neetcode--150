@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>NeetCode 150 Tracker</title>
+<style>
+  :root {
+    --bg: #0f0f1a;
+    --card: #1a1a2e;
+    --border: #2a2a40;
+    --text: #e2e8f0;
+    --muted: #94a3b8;
+    --green: #22c55e;
+    --amber: #f59e0b;
+    --red: #ef4444;
+  }
+  * { box-sizing: border-box; }
+  body {
+    width: 340px;
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 18px 8px;
+  }
+  .header h1 {
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0;
+  }
+  .header button {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 16px;
+    padding: 4px;
+    border-radius: 6px;
+  }
+  .header button:hover { background: var(--card); color: var(--text); }
+
+  #banner {
+    display: none;
+    margin: 0 18px 12px;
+    padding: 10px 12px;
+    background: rgba(245, 158, 11, 0.12);
+    border: 1px solid rgba(245, 158, 11, 0.35);
+    border-radius: 8px;
+    font-size: 12px;
+    color: var(--amber);
+  }
+  #banner a { color: var(--amber); text-decoration: underline; cursor: pointer; }
+
+  .ring-section {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 4px 18px 16px;
+  }
+  .ring-wrap { position: relative; width: 84px; height: 84px; flex: 0 0 auto; }
+  .ring-wrap svg { transform: rotate(-90deg); }
+  .ring-bg { fill: none; stroke: var(--border); stroke-width: 8; }
+  .ring-fg { fill: none; stroke: var(--green); stroke-width: 8; stroke-linecap: round; transition: stroke-dashoffset 0.4s ease; }
+  .ring-label {
+    position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+  }
+  #doneCount { font-size: 20px; font-weight: 700; line-height: 1; }
+  .ring-label .of150 { font-size: 10px; color: var(--muted); }
+
+  .stat-breakdown { display: flex; flex-direction: column; gap: 6px; }
+  .stat-row { display: flex; align-items: center; gap: 8px; font-size: 13px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex: 0 0 auto; }
+  #pctLabel { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+  .section-title {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 0 18px;
+    margin-bottom: 8px;
+  }
+
+  #topicList { padding: 0 18px; margin-bottom: 16px; display: flex; flex-direction: column; gap: 8px; max-height: 160px; overflow-y: auto; }
+  .topic-row { display: flex; align-items: center; gap: 8px; font-size: 12px; }
+  .topic-name { flex: 0 0 120px; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .topic-bar-wrap { flex: 1; height: 6px; background: var(--border); border-radius: 4px; overflow: hidden; }
+  .topic-bar-fill { height: 100%; background: var(--green); border-radius: 4px; }
+  .topic-count { flex: 0 0 auto; color: var(--muted); font-size: 11px; }
+
+  #recentList { padding: 0 18px 18px; display: flex; flex-direction: column; gap: 10px; }
+  .recent-item { display: flex; align-items: center; gap: 10px; }
+  .recent-dot { width: 8px; height: 8px; border-radius: 50%; flex: 0 0 auto; }
+  .recent-title { font-size: 13px; font-weight: 500; }
+  .recent-topic { font-size: 11px; color: var(--muted); }
+  .empty { color: var(--muted); font-size: 12px; text-align: center; padding: 12px 0; }
+</style>
+</head>
+<body>
+  <div class="header">
+    <h1>🧠 NeetCode 150</h1>
+    <button id="settingsBtn" title="Settings">⚙️</button>
+  </div>
+
+  <div id="banner">
+    GitHub isn't connected yet. <a id="bannerLink">Set it up</a> to start syncing your progress.
+  </div>
+
+  <div class="ring-section">
+    <div class="ring-wrap">
+      <svg width="84" height="84" viewBox="0 0 84 84">
+        <circle class="ring-bg" cx="42" cy="42" r="37"></circle>
+        <circle id="ringFg" class="ring-fg" cx="42" cy="42" r="37"
+          stroke-dasharray="232.5" stroke-dashoffset="232.5"></circle>
+      </svg>
+      <div class="ring-label">
+        <span id="doneCount">0</span>
+        <span class="of150">/ 150</span>
+      </div>
+    </div>
+    <div class="stat-breakdown">
+      <div class="stat-row"><span class="dot" style="background:#22c55e"></span> Easy: <span id="easyCount">0</span></div>
+      <div class="stat-row"><span class="dot" style="background:#f59e0b"></span> Medium: <span id="medCount">0</span></div>
+      <div class="stat-row"><span class="dot" style="background:#ef4444"></span> Hard: <span id="hardCount">0</span></div>
+      <div id="pctLabel">0% complete</div>
+    </div>
+  </div>
+
+  <div class="section-title">By Topic</div>
+  <div id="topicList"></div>
+
+  <div class="section-title">Recently Solved</div>
+  <div id="recentList"></div>
+
+  <script src="src/neetcode150.js"></script>
+  <script src="src/popup.js"></script>
+</body>
+</html>
