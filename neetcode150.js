@@ -1,0 +1,187 @@
+const NEETCODE_150 = [
+  // Arrays & Hashing (9)
+  { id: 1,  slug: "contains-duplicate",                          title: "Contains Duplicate",                           topic: "Arrays & Hashing",          difficulty: "Easy"   },
+  { id: 2,  slug: "valid-anagram",                               title: "Valid Anagram",                                topic: "Arrays & Hashing",          difficulty: "Easy"   },
+  { id: 3,  slug: "two-sum",                                     title: "Two Sum",                                      topic: "Arrays & Hashing",          difficulty: "Easy"   },
+  { id: 4,  slug: "group-anagrams",                              title: "Group Anagrams",                               topic: "Arrays & Hashing",          difficulty: "Medium" },
+  { id: 5,  slug: "top-k-frequent-elements",                     title: "Top K Frequent Elements",                      topic: "Arrays & Hashing",          difficulty: "Medium" },
+  { id: 6,  slug: "encode-and-decode-strings",                   title: "Encode and Decode Strings",                    topic: "Arrays & Hashing",          difficulty: "Medium" },
+  { id: 7,  slug: "product-of-array-except-self",                title: "Product of Array Except Self",                 topic: "Arrays & Hashing",          difficulty: "Medium" },
+  { id: 8,  slug: "valid-sudoku",                                title: "Valid Sudoku",                                 topic: "Arrays & Hashing",          difficulty: "Medium" },
+  { id: 9,  slug: "longest-consecutive-sequence",                title: "Longest Consecutive Sequence",                 topic: "Arrays & Hashing",          difficulty: "Medium" },
+  // Two Pointers (5)
+  { id: 10, slug: "valid-palindrome",                            title: "Valid Palindrome",                             topic: "Two Pointers",              difficulty: "Easy"   },
+  { id: 11, slug: "two-sum-ii-input-array-is-sorted",            title: "Two Sum II",                                   topic: "Two Pointers",              difficulty: "Medium" },
+  { id: 12, slug: "3sum",                                        title: "3Sum",                                         topic: "Two Pointers",              difficulty: "Medium" },
+  { id: 13, slug: "container-with-most-water",                   title: "Container With Most Water",                    topic: "Two Pointers",              difficulty: "Medium" },
+  { id: 14, slug: "trapping-rain-water",                         title: "Trapping Rain Water",                          topic: "Two Pointers",              difficulty: "Hard"   },
+  // Sliding Window (6)
+  { id: 15, slug: "best-time-to-buy-and-sell-stock",             title: "Best Time to Buy and Sell Stock",              topic: "Sliding Window",            difficulty: "Easy"   },
+  { id: 16, slug: "longest-substring-without-repeating-characters", title: "Longest Substring Without Repeating Characters", topic: "Sliding Window",       difficulty: "Medium" },
+  { id: 17, slug: "longest-repeating-character-replacement",     title: "Longest Repeating Character Replacement",      topic: "Sliding Window",            difficulty: "Medium" },
+  { id: 18, slug: "permutation-in-string",                       title: "Permutation in String",                        topic: "Sliding Window",            difficulty: "Medium" },
+  { id: 19, slug: "minimum-window-substring",                    title: "Minimum Window Substring",                     topic: "Sliding Window",            difficulty: "Hard"   },
+  { id: 20, slug: "sliding-window-maximum",                      title: "Sliding Window Maximum",                       topic: "Sliding Window",            difficulty: "Hard"   },
+  // Stack (7)
+  { id: 21, slug: "valid-parentheses",                           title: "Valid Parentheses",                            topic: "Stack",                     difficulty: "Easy"   },
+  { id: 22, slug: "min-stack",                                   title: "Min Stack",                                    topic: "Stack",                     difficulty: "Medium" },
+  { id: 23, slug: "evaluate-reverse-polish-notation",            title: "Evaluate Reverse Polish Notation",             topic: "Stack",                     difficulty: "Medium" },
+  { id: 24, slug: "generate-parentheses",                        title: "Generate Parentheses",                         topic: "Stack",                     difficulty: "Medium" },
+  { id: 25, slug: "daily-temperatures",                          title: "Daily Temperatures",                           topic: "Stack",                     difficulty: "Medium" },
+  { id: 26, slug: "car-fleet",                                   title: "Car Fleet",                                    topic: "Stack",                     difficulty: "Medium" },
+  { id: 27, slug: "largest-rectangle-in-histogram",              title: "Largest Rectangle in Histogram",               topic: "Stack",                     difficulty: "Hard"   },
+  // Binary Search (7)
+  { id: 28, slug: "binary-search",                               title: "Binary Search",                                topic: "Binary Search",             difficulty: "Easy"   },
+  { id: 29, slug: "search-a-2d-matrix",                          title: "Search a 2D Matrix",                           topic: "Binary Search",             difficulty: "Medium" },
+  { id: 30, slug: "koko-eating-bananas",                         title: "Koko Eating Bananas",                          topic: "Binary Search",             difficulty: "Medium" },
+  { id: 31, slug: "find-minimum-in-rotated-sorted-array",        title: "Find Minimum in Rotated Sorted Array",         topic: "Binary Search",             difficulty: "Medium" },
+  { id: 32, slug: "search-in-rotated-sorted-array",              title: "Search in Rotated Sorted Array",               topic: "Binary Search",             difficulty: "Medium" },
+  { id: 33, slug: "time-based-key-value-store",                  title: "Time Based Key-Value Store",                   topic: "Binary Search",             difficulty: "Medium" },
+  { id: 34, slug: "median-of-two-sorted-arrays",                 title: "Median of Two Sorted Arrays",                  topic: "Binary Search",             difficulty: "Hard"   },
+  // Linked List (11)
+  { id: 35, slug: "reverse-linked-list",                         title: "Reverse Linked List",                          topic: "Linked List",               difficulty: "Easy"   },
+  { id: 36, slug: "merge-two-sorted-lists",                      title: "Merge Two Sorted Lists",                       topic: "Linked List",               difficulty: "Easy"   },
+  { id: 37, slug: "reorder-list",                                title: "Reorder List",                                 topic: "Linked List",               difficulty: "Medium" },
+  { id: 38, slug: "remove-nth-node-from-end-of-list",            title: "Remove Nth Node From End of List",             topic: "Linked List",               difficulty: "Medium" },
+  { id: 39, slug: "copy-list-with-random-pointer",               title: "Copy List with Random Pointer",                topic: "Linked List",               difficulty: "Medium" },
+  { id: 40, slug: "add-two-numbers",                             title: "Add Two Numbers",                              topic: "Linked List",               difficulty: "Medium" },
+  { id: 41, slug: "linked-list-cycle",                           title: "Linked List Cycle",                            topic: "Linked List",               difficulty: "Easy"   },
+  { id: 42, slug: "find-the-duplicate-number",                   title: "Find the Duplicate Number",                    topic: "Linked List",               difficulty: "Medium" },
+  { id: 43, slug: "lru-cache",                                   title: "LRU Cache",                                    topic: "Linked List",               difficulty: "Medium" },
+  { id: 44, slug: "merge-k-sorted-lists",                        title: "Merge K Sorted Lists",                         topic: "Linked List",               difficulty: "Hard"   },
+  { id: 45, slug: "reverse-nodes-in-k-group",                    title: "Reverse Nodes in k-Group",                     topic: "Linked List",               difficulty: "Hard"   },
+  // Trees (15)
+  { id: 46, slug: "invert-binary-tree",                          title: "Invert Binary Tree",                           topic: "Trees",                     difficulty: "Easy"   },
+  { id: 47, slug: "maximum-depth-of-binary-tree",                title: "Maximum Depth of Binary Tree",                 topic: "Trees",                     difficulty: "Easy"   },
+  { id: 48, slug: "diameter-of-binary-tree",                     title: "Diameter of Binary Tree",                      topic: "Trees",                     difficulty: "Easy"   },
+  { id: 49, slug: "balanced-binary-tree",                        title: "Balanced Binary Tree",                         topic: "Trees",                     difficulty: "Easy"   },
+  { id: 50, slug: "same-tree",                                   title: "Same Tree",                                    topic: "Trees",                     difficulty: "Easy"   },
+  { id: 51, slug: "subtree-of-another-tree",                     title: "Subtree of Another Tree",                      topic: "Trees",                     difficulty: "Easy"   },
+  { id: 52, slug: "lowest-common-ancestor-of-a-binary-search-tree", title: "Lowest Common Ancestor of BST",            topic: "Trees",                     difficulty: "Medium" },
+  { id: 53, slug: "binary-tree-level-order-traversal",           title: "Binary Tree Level Order Traversal",            topic: "Trees",                     difficulty: "Medium" },
+  { id: 54, slug: "binary-tree-right-side-view",                 title: "Binary Tree Right Side View",                  topic: "Trees",                     difficulty: "Medium" },
+  { id: 55, slug: "count-good-nodes-in-binary-tree",             title: "Count Good Nodes in Binary Tree",              topic: "Trees",                     difficulty: "Medium" },
+  { id: 56, slug: "validate-binary-search-tree",                 title: "Validate Binary Search Tree",                  topic: "Trees",                     difficulty: "Medium" },
+  { id: 57, slug: "kth-smallest-element-in-a-bst",               title: "Kth Smallest Element in a BST",                topic: "Trees",                     difficulty: "Medium" },
+  { id: 58, slug: "construct-binary-tree-from-preorder-and-inorder-traversal", title: "Construct Binary Tree from Preorder and Inorder Traversal", topic: "Trees", difficulty: "Medium" },
+  { id: 59, slug: "binary-tree-maximum-path-sum",                title: "Binary Tree Maximum Path Sum",                 topic: "Trees",                     difficulty: "Hard"   },
+  { id: 60, slug: "serialize-and-deserialize-binary-tree",       title: "Serialize and Deserialize Binary Tree",        topic: "Trees",                     difficulty: "Hard"   },
+  // Tries (3)
+  { id: 61, slug: "implement-trie-prefix-tree",                  title: "Implement Trie (Prefix Tree)",                 topic: "Tries",                     difficulty: "Medium" },
+  { id: 62, slug: "design-add-and-search-words-data-structure",  title: "Design Add and Search Words Data Structure",   topic: "Tries",                     difficulty: "Medium" },
+  { id: 63, slug: "word-search-ii",                              title: "Word Search II",                               topic: "Tries",                     difficulty: "Hard"   },
+  // Heap / Priority Queue (7)
+  { id: 64, slug: "kth-largest-element-in-a-stream",             title: "Kth Largest Element in a Stream",              topic: "Heap / Priority Queue",     difficulty: "Easy"   },
+  { id: 65, slug: "last-stone-weight",                           title: "Last Stone Weight",                            topic: "Heap / Priority Queue",     difficulty: "Easy"   },
+  { id: 66, slug: "k-closest-points-to-origin",                  title: "K Closest Points to Origin",                   topic: "Heap / Priority Queue",     difficulty: "Medium" },
+  { id: 67, slug: "kth-largest-element-in-an-array",             title: "Kth Largest Element in an Array",              topic: "Heap / Priority Queue",     difficulty: "Medium" },
+  { id: 68, slug: "task-scheduler",                              title: "Task Scheduler",                               topic: "Heap / Priority Queue",     difficulty: "Medium" },
+  { id: 69, slug: "design-twitter",                              title: "Design Twitter",                               topic: "Heap / Priority Queue",     difficulty: "Medium" },
+  { id: 70, slug: "find-median-from-data-stream",                title: "Find Median from Data Stream",                 topic: "Heap / Priority Queue",     difficulty: "Hard"   },
+  // Backtracking (9)
+  { id: 71, slug: "subsets",                                     title: "Subsets",                                      topic: "Backtracking",              difficulty: "Medium" },
+  { id: 72, slug: "combination-sum",                             title: "Combination Sum",                              topic: "Backtracking",              difficulty: "Medium" },
+  { id: 73, slug: "permutations",                                title: "Permutations",                                 topic: "Backtracking",              difficulty: "Medium" },
+  { id: 74, slug: "subsets-ii",                                  title: "Subsets II",                                   topic: "Backtracking",              difficulty: "Medium" },
+  { id: 75, slug: "combination-sum-ii",                          title: "Combination Sum II",                           topic: "Backtracking",              difficulty: "Medium" },
+  { id: 76, slug: "word-search",                                 title: "Word Search",                                  topic: "Backtracking",              difficulty: "Medium" },
+  { id: 77, slug: "palindrome-partitioning",                     title: "Palindrome Partitioning",                      topic: "Backtracking",              difficulty: "Medium" },
+  { id: 78, slug: "letter-combinations-of-a-phone-number",       title: "Letter Combinations of a Phone Number",        topic: "Backtracking",              difficulty: "Medium" },
+  { id: 79, slug: "n-queens",                                    title: "N-Queens",                                     topic: "Backtracking",              difficulty: "Hard"   },
+  // Graphs (13)
+  { id: 80, slug: "number-of-islands",                           title: "Number of Islands",                            topic: "Graphs",                    difficulty: "Medium" },
+  { id: 81, slug: "clone-graph",                                 title: "Clone Graph",                                  topic: "Graphs",                    difficulty: "Medium" },
+  { id: 82, slug: "max-area-of-island",                          title: "Max Area of Island",                           topic: "Graphs",                    difficulty: "Medium" },
+  { id: 83, slug: "pacific-atlantic-water-flow",                 title: "Pacific Atlantic Water Flow",                  topic: "Graphs",                    difficulty: "Medium" },
+  { id: 84, slug: "surrounded-regions",                          title: "Surrounded Regions",                           topic: "Graphs",                    difficulty: "Medium" },
+  { id: 85, slug: "rotting-oranges",                             title: "Rotting Oranges",                              topic: "Graphs",                    difficulty: "Medium" },
+  { id: 86, slug: "walls-and-gates",                             title: "Walls and Gates",                              topic: "Graphs",                    difficulty: "Medium" },
+  { id: 87, slug: "course-schedule",                             title: "Course Schedule",                              topic: "Graphs",                    difficulty: "Medium" },
+  { id: 88, slug: "course-schedule-ii",                          title: "Course Schedule II",                           topic: "Graphs",                    difficulty: "Medium" },
+  { id: 89, slug: "redundant-connection",                        title: "Redundant Connection",                         topic: "Graphs",                    difficulty: "Medium" },
+  { id: 90, slug: "number-of-connected-components-in-an-undirected-graph", title: "Number of Connected Components",    topic: "Graphs",                    difficulty: "Medium" },
+  { id: 91, slug: "graph-valid-tree",                            title: "Graph Valid Tree",                             topic: "Graphs",                    difficulty: "Medium" },
+  { id: 92, slug: "word-ladder",                                 title: "Word Ladder",                                  topic: "Graphs",                    difficulty: "Hard"   },
+  // Advanced Graphs (6)
+  { id: 93,  slug: "reconstruct-itinerary",                      title: "Reconstruct Itinerary",                        topic: "Advanced Graphs",           difficulty: "Hard"   },
+  { id: 94,  slug: "min-cost-to-connect-all-points",             title: "Min Cost to Connect All Points",               topic: "Advanced Graphs",           difficulty: "Medium" },
+  { id: 95,  slug: "network-delay-time",                         title: "Network Delay Time",                           topic: "Advanced Graphs",           difficulty: "Medium" },
+  { id: 96,  slug: "swim-in-rising-water",                       title: "Swim in Rising Water",                         topic: "Advanced Graphs",           difficulty: "Hard"   },
+  { id: 97,  slug: "alien-dictionary",                           title: "Alien Dictionary",                             topic: "Advanced Graphs",           difficulty: "Hard"   },
+  { id: 98,  slug: "cheapest-flights-within-k-stops",            title: "Cheapest Flights Within K Stops",              topic: "Advanced Graphs",           difficulty: "Medium" },
+  // 1-D Dynamic Programming (12)
+  { id: 99,  slug: "climbing-stairs",                            title: "Climbing Stairs",                              topic: "1-D Dynamic Programming",   difficulty: "Easy"   },
+  { id: 100, slug: "min-cost-climbing-stairs",                   title: "Min Cost Climbing Stairs",                     topic: "1-D Dynamic Programming",   difficulty: "Easy"   },
+  { id: 101, slug: "house-robber",                               title: "House Robber",                                 topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 102, slug: "house-robber-ii",                            title: "House Robber II",                              topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 103, slug: "longest-palindromic-substring",              title: "Longest Palindromic Substring",                topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 104, slug: "palindromic-substrings",                     title: "Palindromic Substrings",                       topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 105, slug: "decode-ways",                                title: "Decode Ways",                                  topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 106, slug: "coin-change",                                title: "Coin Change",                                  topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 107, slug: "maximum-product-subarray",                   title: "Maximum Product Subarray",                     topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 108, slug: "word-break",                                 title: "Word Break",                                   topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 109, slug: "longest-increasing-subsequence",             title: "Longest Increasing Subsequence",               topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 110, slug: "partition-equal-subset-sum",                 title: "Partition Equal Subset Sum",                   topic: "1-D Dynamic Programming",   difficulty: "Medium" },
+  // 2-D Dynamic Programming (11)
+  { id: 111, slug: "unique-paths",                               title: "Unique Paths",                                 topic: "2-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 112, slug: "longest-common-subsequence",                 title: "Longest Common Subsequence",                   topic: "2-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 113, slug: "best-time-to-buy-and-sell-stock-with-cooldown", title: "Buy and Sell Stock with Cooldown",         topic: "2-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 114, slug: "coin-change-ii",                             title: "Coin Change II",                               topic: "2-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 115, slug: "target-sum",                                 title: "Target Sum",                                   topic: "2-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 116, slug: "interleaving-string",                        title: "Interleaving String",                          topic: "2-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 117, slug: "longest-increasing-path-in-a-matrix",        title: "Longest Increasing Path in a Matrix",          topic: "2-D Dynamic Programming",   difficulty: "Hard"   },
+  { id: 118, slug: "distinct-subsequences",                      title: "Distinct Subsequences",                        topic: "2-D Dynamic Programming",   difficulty: "Hard"   },
+  { id: 119, slug: "edit-distance",                              title: "Edit Distance",                                topic: "2-D Dynamic Programming",   difficulty: "Medium" },
+  { id: 120, slug: "burst-balloons",                             title: "Burst Balloons",                               topic: "2-D Dynamic Programming",   difficulty: "Hard"   },
+  { id: 121, slug: "regular-expression-matching",                title: "Regular Expression Matching",                  topic: "2-D Dynamic Programming",   difficulty: "Hard"   },
+  // Greedy (8)
+  { id: 122, slug: "maximum-subarray",                           title: "Maximum Subarray",                             topic: "Greedy",                    difficulty: "Medium" },
+  { id: 123, slug: "jump-game",                                  title: "Jump Game",                                    topic: "Greedy",                    difficulty: "Medium" },
+  { id: 124, slug: "jump-game-ii",                               title: "Jump Game II",                                 topic: "Greedy",                    difficulty: "Medium" },
+  { id: 125, slug: "gas-station",                                title: "Gas Station",                                  topic: "Greedy",                    difficulty: "Medium" },
+  { id: 126, slug: "hand-of-straights",                          title: "Hand of Straights",                            topic: "Greedy",                    difficulty: "Medium" },
+  { id: 127, slug: "merge-triplets-to-form-target-triplet",      title: "Merge Triplets to Form Target Triplet",        topic: "Greedy",                    difficulty: "Medium" },
+  { id: 128, slug: "partition-labels",                           title: "Partition Labels",                             topic: "Greedy",                    difficulty: "Medium" },
+  { id: 129, slug: "valid-parenthesis-string",                   title: "Valid Parenthesis String",                     topic: "Greedy",                    difficulty: "Medium" },
+  // Intervals (6)
+  { id: 130, slug: "insert-interval",                            title: "Insert Interval",                              topic: "Intervals",                 difficulty: "Medium" },
+  { id: 131, slug: "merge-intervals",                            title: "Merge Intervals",                              topic: "Intervals",                 difficulty: "Medium" },
+  { id: 132, slug: "non-overlapping-intervals",                  title: "Non-overlapping Intervals",                    topic: "Intervals",                 difficulty: "Medium" },
+  { id: 133, slug: "meeting-rooms",                              title: "Meeting Rooms",                                topic: "Intervals",                 difficulty: "Easy"   },
+  { id: 134, slug: "meeting-rooms-ii",                           title: "Meeting Rooms II",                             topic: "Intervals",                 difficulty: "Medium" },
+  { id: 135, slug: "minimum-interval-to-include-each-query",     title: "Minimum Interval to Include Each Query",       topic: "Intervals",                 difficulty: "Hard"   },
+  // Math & Geometry (8)
+  { id: 136, slug: "rotate-image",                               title: "Rotate Image",                                 topic: "Math & Geometry",           difficulty: "Medium" },
+  { id: 137, slug: "spiral-matrix",                              title: "Spiral Matrix",                                topic: "Math & Geometry",           difficulty: "Medium" },
+  { id: 138, slug: "set-matrix-zeroes",                          title: "Set Matrix Zeroes",                            topic: "Math & Geometry",           difficulty: "Medium" },
+  { id: 139, slug: "happy-number",                               title: "Happy Number",                                 topic: "Math & Geometry",           difficulty: "Easy"   },
+  { id: 140, slug: "plus-one",                                   title: "Plus One",                                     topic: "Math & Geometry",           difficulty: "Easy"   },
+  { id: 141, slug: "pow-x-n",                                    title: "Pow(x, n)",                                    topic: "Math & Geometry",           difficulty: "Medium" },
+  { id: 142, slug: "multiply-strings",                           title: "Multiply Strings",                             topic: "Math & Geometry",           difficulty: "Medium" },
+  { id: 143, slug: "detect-squares",                             title: "Detect Squares",                               topic: "Math & Geometry",           difficulty: "Medium" },
+  // Bit Manipulation (7)
+  { id: 144, slug: "single-number",                              title: "Single Number",                                topic: "Bit Manipulation",          difficulty: "Easy"   },
+  { id: 145, slug: "number-of-1-bits",                           title: "Number of 1 Bits",                             topic: "Bit Manipulation",          difficulty: "Easy"   },
+  { id: 146, slug: "counting-bits",                              title: "Counting Bits",                                topic: "Bit Manipulation",          difficulty: "Easy"   },
+  { id: 147, slug: "reverse-bits",                               title: "Reverse Bits",                                 topic: "Bit Manipulation",          difficulty: "Easy"   },
+  { id: 148, slug: "missing-number",                             title: "Missing Number",                               topic: "Bit Manipulation",          difficulty: "Easy"   },
+  { id: 149, slug: "sum-of-two-integers",                        title: "Sum of Two Integers",                          topic: "Bit Manipulation",          difficulty: "Medium" },
+  { id: 150, slug: "reverse-integer",                            title: "Reverse Integer",                              topic: "Bit Manipulation",          difficulty: "Medium" },
+];
+
+const TOPICS = [...new Set(NEETCODE_150.map(p => p.topic))];
+const TOPIC_COUNTS = {};
+TOPICS.forEach(t => {
+  TOPIC_COUNTS[t] = NEETCODE_150.filter(p => p.topic === t).length;
+});
+
+// `const` does not attach to the global object the way top-level `var`
+// or function declarations do. content.js/popup.js reference the bare
+// identifiers directly (fine, since they're in the same script's scope),
+// but background.js loads this file via importScripts() and reads
+// self.NEETCODE_150 — which needs an explicit assignment to exist.
+// globalThis works in both the service worker (self === globalThis)
+// and the content-script/page context.
+globalThis.NEETCODE_150  = NEETCODE_150;
+globalThis.TOPICS        = TOPICS;
+globalThis.TOPIC_COUNTS  = TOPIC_COUNTS;
