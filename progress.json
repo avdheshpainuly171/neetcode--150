@@ -20,13 +20,23 @@
     "topic": "Two Pointers"
   },
   "two-sum-ii-input-array-is-sorted": {
-    "slug": "two-sum-ii-input-array-is-sorted",
-    "title": "Two Sum II",
-    "topic": "Two Pointers",
     "difficulty": "Medium",
     "id": 11,
     "inNeetCode": true,
+    "slug": "two-sum-ii-input-array-is-sorted",
     "solved": true,
-    "solvedAt": "2026-06-27T11:21:09.050Z"
+    "solvedAt": "2026-06-27T11:21:09.050Z",
+    "title": "Two Sum II",
+    "topic": "Two Pointers"
+  },
+  "two-sum": {
+    "slug": "two-sum",
+    "title": "Two Sum",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy",
+    "id": 3,
+    "inNeetCode": true,
+    "solved": true,
+    "solvedAt": "2026-06-27T12:17:25.944Z"
   }
 }
