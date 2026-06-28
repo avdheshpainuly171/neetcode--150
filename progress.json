@@ -19,6 +19,16 @@
     "title": "Container With Most Water",
     "topic": "Two Pointers"
   },
+  "longest-consecutive-sequence": {
+    "difficulty": "Medium",
+    "id": 9,
+    "inNeetCode": true,
+    "slug": "longest-consecutive-sequence",
+    "solved": true,
+    "solvedAt": "2026-06-28T02:31:17.782Z",
+    "title": "Longest Consecutive Sequence",
+    "topic": "Arrays & Hashing"
+  },
   "reorder-list": {
     "difficulty": "Medium",
     "id": 37,
@@ -49,14 +59,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "longest-consecutive-sequence": {
-    "slug": "longest-consecutive-sequence",
-    "title": "Longest Consecutive Sequence",
-    "topic": "Arrays & Hashing",
-    "difficulty": "Medium",
-    "id": 9,
+  "linked-list-cycle": {
+    "slug": "linked-list-cycle",
+    "title": "Linked List Cycle",
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "id": 41,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-06-28T02:31:17.782Z"
+    "solvedAt": "2026-06-28T02:31:20.700Z"
   }
 }
