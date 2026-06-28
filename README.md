@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6/150`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7/150`
 
-**6 / 150 solved (4%)**
+**7 / 150 solved (5%)**
 
 ## By Topic
 
@@ -17,7 +17,7 @@
 | Sliding Window | 1 | 6 | 17% |
 | Stack | 0 | 7 | 0% |
 | Binary Search | 0 | 7 | 0% |
-| Linked List | 1 | 11 | 9% |
+| Linked List | 2 | 11 | 18% |
 | Trees | 0 | 15 | 0% |
 | Tries | 0 | 3 | 0% |
 | Heap / Priority Queue | 0 | 7 | 0% |
@@ -41,6 +41,7 @@
 | 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | 🟡 Medium | 27/6/2026 |
 | 15 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Sliding Window | 🟢 Easy | 27/6/2026 |
 | 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Linked List | 🟡 Medium | 27/6/2026 |
+| 41 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List | 🟢 Easy | 28/6/2026 |
 
 ---
-*Last updated: Sun, 28 Jun 2026 02:31:18 GMT*
+*Last updated: Sun, 28 Jun 2026 02:31:20 GMT*
