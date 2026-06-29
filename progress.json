@@ -19,6 +19,16 @@
     "title": "Container With Most Water",
     "topic": "Two Pointers"
   },
+  "linked-list-cycle": {
+    "difficulty": "Easy",
+    "id": 41,
+    "inNeetCode": true,
+    "slug": "linked-list-cycle",
+    "solved": true,
+    "solvedAt": "2026-06-28T02:31:20.700Z",
+    "title": "Linked List Cycle",
+    "topic": "Linked List"
+  },
   "longest-consecutive-sequence": {
     "difficulty": "Medium",
     "id": 9,
@@ -59,14 +69,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "linked-list-cycle": {
-    "slug": "linked-list-cycle",
-    "title": "Linked List Cycle",
+  "remove-nth-node-from-end-of-list": {
+    "slug": "remove-nth-node-from-end-of-list",
+    "title": "Remove Nth Node From End of List",
     "topic": "Linked List",
-    "difficulty": "Easy",
-    "id": 41,
+    "difficulty": "Medium",
+    "id": 38,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-06-28T02:31:20.700Z"
+    "solvedAt": "2026-06-29T18:08:29.025Z"
   }
 }
