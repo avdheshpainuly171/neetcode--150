@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7/150`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8/150`
 
-**7 / 150 solved (5%)**
+**8 / 150 solved (5%)**
 
 ## By Topic
 
@@ -17,7 +17,7 @@
 | Sliding Window | 1 | 6 | 17% |
 | Stack | 0 | 7 | 0% |
 | Binary Search | 0 | 7 | 0% |
-| Linked List | 2 | 11 | 18% |
+| Linked List | 3 | 11 | 27% |
 | Trees | 0 | 15 | 0% |
 | Tries | 0 | 3 | 0% |
 | Heap / Priority Queue | 0 | 7 | 0% |
@@ -41,7 +41,8 @@
 | 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | 🟡 Medium | 27/6/2026 |
 | 15 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Sliding Window | 🟢 Easy | 27/6/2026 |
 | 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Linked List | 🟡 Medium | 27/6/2026 |
+| 38 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | 🟡 Medium | 29/6/2026 |
 | 41 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List | 🟢 Easy | 28/6/2026 |
 
 ---
-*Last updated: Sun, 28 Jun 2026 02:31:20 GMT*
+*Last updated: Mon, 29 Jun 2026 18:08:29 GMT*
