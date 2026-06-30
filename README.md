@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8/150`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9/150`
 
-**8 / 150 solved (5%)**
+**9 / 150 solved (6%)**
 
 ## By Topic
 
@@ -24,7 +24,7 @@
 | Backtracking | 0 | 9 | 0% |
 | Graphs | 0 | 13 | 0% |
 | Advanced Graphs | 0 | 6 | 0% |
-| 1-D Dynamic Programming | 0 | 12 | 0% |
+| 1-D Dynamic Programming | 1 | 12 | 8% |
 | 2-D Dynamic Programming | 0 | 11 | 0% |
 | Greedy | 0 | 8 | 0% |
 | Intervals | 0 | 6 | 0% |
@@ -43,6 +43,7 @@
 | 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Linked List | 🟡 Medium | 27/6/2026 |
 | 38 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | 🟡 Medium | 29/6/2026 |
 | 41 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List | 🟢 Easy | 28/6/2026 |
+| 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
 
 ---
-*Last updated: Mon, 29 Jun 2026 18:08:29 GMT*
+*Last updated: Tue, 30 Jun 2026 18:40:15 GMT*
