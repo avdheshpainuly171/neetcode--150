@@ -39,6 +39,16 @@
     "title": "Longest Consecutive Sequence",
     "topic": "Arrays & Hashing"
   },
+  "remove-nth-node-from-end-of-list": {
+    "difficulty": "Medium",
+    "id": 38,
+    "inNeetCode": true,
+    "slug": "remove-nth-node-from-end-of-list",
+    "solved": true,
+    "solvedAt": "2026-06-29T18:08:29.025Z",
+    "title": "Remove Nth Node From End of List",
+    "topic": "Linked List"
+  },
   "reorder-list": {
     "difficulty": "Medium",
     "id": 37,
@@ -69,14 +79,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "remove-nth-node-from-end-of-list": {
-    "slug": "remove-nth-node-from-end-of-list",
-    "title": "Remove Nth Node From End of List",
-    "topic": "Linked List",
+  "longest-palindromic-substring": {
+    "slug": "longest-palindromic-substring",
+    "title": "Longest Palindromic Substring",
+    "topic": "1-D Dynamic Programming",
     "difficulty": "Medium",
-    "id": 38,
+    "id": 103,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-06-29T18:08:29.025Z"
+    "solvedAt": "2026-06-30T18:40:15.171Z"
   }
 }
