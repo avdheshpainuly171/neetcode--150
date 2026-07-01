@@ -39,6 +39,16 @@
     "title": "Longest Consecutive Sequence",
     "topic": "Arrays & Hashing"
   },
+  "longest-palindromic-substring": {
+    "difficulty": "Medium",
+    "id": 103,
+    "inNeetCode": true,
+    "slug": "longest-palindromic-substring",
+    "solved": true,
+    "solvedAt": "2026-06-30T18:40:15.171Z",
+    "title": "Longest Palindromic Substring",
+    "topic": "1-D Dynamic Programming"
+  },
   "remove-nth-node-from-end-of-list": {
     "difficulty": "Medium",
     "id": 38,
@@ -79,14 +89,13 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "longest-palindromic-substring": {
-    "slug": "longest-palindromic-substring",
-    "title": "Longest Palindromic Substring",
-    "topic": "1-D Dynamic Programming",
-    "difficulty": "Medium",
-    "id": 103,
-    "inNeetCode": true,
+  "maximum-gap": {
+    "slug": "maximum-gap",
+    "title": "Maximum Gap",
+    "topic": null,
+    "difficulty": null,
+    "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-06-30T18:40:15.171Z"
+    "solvedAt": "2026-07-01T19:21:10.043Z"
   }
 }
