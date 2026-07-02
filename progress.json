@@ -49,6 +49,15 @@
     "title": "Longest Palindromic Substring",
     "topic": "1-D Dynamic Programming"
   },
+  "maximum-gap": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "maximum-gap",
+    "solved": true,
+    "solvedAt": "2026-07-01T19:21:10.043Z",
+    "title": "Maximum Gap",
+    "topic": null
+  },
   "remove-nth-node-from-end-of-list": {
     "difficulty": "Medium",
     "id": 38,
@@ -89,13 +98,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "maximum-gap": {
-    "slug": "maximum-gap",
-    "title": "Maximum Gap",
-    "topic": null,
-    "difficulty": null,
-    "inNeetCode": false,
+  "invert-binary-tree": {
+    "slug": "invert-binary-tree",
+    "title": "Invert Binary Tree",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "id": 46,
+    "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-01T19:21:10.043Z"
+    "solvedAt": "2026-07-02T17:37:53.116Z"
   }
 }
