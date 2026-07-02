@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9/150`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10/150`
 
-**9 / 150 solved (6%)**
+**10 / 150 solved (7%)**
 
 ## By Topic
 
@@ -18,7 +18,7 @@
 | Stack | 0 | 7 | 0% |
 | Binary Search | 0 | 7 | 0% |
 | Linked List | 3 | 11 | 27% |
-| Trees | 0 | 15 | 0% |
+| Trees | 1 | 15 | 7% |
 | Tries | 0 | 3 | 0% |
 | Heap / Priority Queue | 0 | 7 | 0% |
 | Backtracking | 0 | 9 | 0% |
@@ -43,7 +43,8 @@
 | 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Linked List | 🟡 Medium | 27/6/2026 |
 | 38 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | 🟡 Medium | 29/6/2026 |
 | 41 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List | 🟢 Easy | 28/6/2026 |
+| 46 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees | 🟢 Easy | 2/7/2026 |
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
 
 ---
-*Last updated: Wed, 01 Jul 2026 19:21:10 GMT*
+*Last updated: Thu, 02 Jul 2026 17:37:53 GMT*
