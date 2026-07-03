@@ -4,15 +4,15 @@
 
 ## Overall Progress
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10/150`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 11/150`
 
-**10 / 150 solved (7%)**
+**11 / 150 solved (7%)**
 
 ## By Topic
 
 | Topic | Done | Total | % |
 |-------|------|-------|---|
-| Arrays & Hashing | 2 | 9 | 22% |
+| Arrays & Hashing | 3 | 9 | 33% |
 | Two Pointers | 2 | 5 | 40% |
 | Sliding Window | 1 | 6 | 17% |
 | Stack | 0 | 7 | 0% |
@@ -35,6 +35,7 @@
 
 | # | Title | Topic | Difficulty | Date |
 |---|-------|-------|------------|------|
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays & Hashing | 🟢 Easy | 4/7/2026 |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays & Hashing | 🟢 Easy | 27/6/2026 |
 | 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Arrays & Hashing | 🟡 Medium | 28/6/2026 |
 | 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | 🟡 Medium | 27/6/2026 |
@@ -47,4 +48,4 @@
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
 
 ---
-*Last updated: Fri, 03 Jul 2026 19:18:18 GMT*
+*Last updated: Fri, 03 Jul 2026 19:19:19 GMT*
