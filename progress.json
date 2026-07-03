@@ -19,6 +19,15 @@
     "title": "Container With Most Water",
     "topic": "Two Pointers"
   },
+  "find-if-path-exists-in-graph": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "find-if-path-exists-in-graph",
+    "solved": true,
+    "solvedAt": "2026-07-03T19:18:18.477Z",
+    "title": "Find if Path Exists in Graph",
+    "topic": null
+  },
   "invert-binary-tree": {
     "difficulty": "Easy",
     "id": 46,
@@ -108,13 +117,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "find-if-path-exists-in-graph": {
-    "slug": "find-if-path-exists-in-graph",
-    "title": "Find if Path Exists in Graph",
-    "topic": null,
-    "difficulty": null,
-    "inNeetCode": false,
+  "contains-duplicate": {
+    "slug": "contains-duplicate",
+    "title": "Contains Duplicate",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy",
+    "id": 1,
+    "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-03T19:18:18.477Z"
+    "solvedAt": "2026-07-03T19:19:19.114Z"
   }
 }
