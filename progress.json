@@ -19,6 +19,16 @@
     "title": "Container With Most Water",
     "topic": "Two Pointers"
   },
+  "invert-binary-tree": {
+    "difficulty": "Easy",
+    "id": 46,
+    "inNeetCode": true,
+    "slug": "invert-binary-tree",
+    "solved": true,
+    "solvedAt": "2026-07-02T17:37:53.116Z",
+    "title": "Invert Binary Tree",
+    "topic": "Trees"
+  },
   "linked-list-cycle": {
     "difficulty": "Easy",
     "id": 41,
@@ -98,14 +108,13 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "invert-binary-tree": {
-    "slug": "invert-binary-tree",
-    "title": "Invert Binary Tree",
-    "topic": "Trees",
-    "difficulty": "Easy",
-    "id": 46,
-    "inNeetCode": true,
+  "find-if-path-exists-in-graph": {
+    "slug": "find-if-path-exists-in-graph",
+    "title": "Find if Path Exists in Graph",
+    "topic": null,
+    "difficulty": null,
+    "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-02T17:37:53.116Z"
+    "solvedAt": "2026-07-03T19:18:18.477Z"
   }
 }
