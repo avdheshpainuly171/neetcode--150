@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 11/150`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12/150`
 
-**11 / 150 solved (7%)**
+**12 / 150 solved (8%)**
 
 ## By Topic
 
@@ -22,7 +22,7 @@
 | Tries | 0 | 3 | 0% |
 | Heap / Priority Queue | 0 | 7 | 0% |
 | Backtracking | 0 | 9 | 0% |
-| Graphs | 0 | 13 | 0% |
+| Graphs | 1 | 13 | 8% |
 | Advanced Graphs | 0 | 6 | 0% |
 | 1-D Dynamic Programming | 1 | 12 | 8% |
 | 2-D Dynamic Programming | 0 | 11 | 0% |
@@ -45,7 +45,8 @@
 | 38 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | 🟡 Medium | 29/6/2026 |
 | 41 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List | 🟢 Easy | 28/6/2026 |
 | 46 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees | 🟢 Easy | 2/7/2026 |
+| 80 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graphs | 🟡 Medium | 6/7/2026 |
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
 
 ---
-*Last updated: Fri, 03 Jul 2026 19:19:19 GMT*
+*Last updated: Mon, 06 Jul 2026 08:29:54 GMT*
