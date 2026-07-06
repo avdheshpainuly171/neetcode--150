@@ -19,6 +19,16 @@
     "title": "Container With Most Water",
     "topic": "Two Pointers"
   },
+  "contains-duplicate": {
+    "difficulty": "Easy",
+    "id": 1,
+    "inNeetCode": true,
+    "slug": "contains-duplicate",
+    "solved": true,
+    "solvedAt": "2026-07-03T19:19:19.114Z",
+    "title": "Contains Duplicate",
+    "topic": "Arrays & Hashing"
+  },
   "find-if-path-exists-in-graph": {
     "difficulty": null,
     "inNeetCode": false,
@@ -117,14 +127,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "contains-duplicate": {
-    "slug": "contains-duplicate",
-    "title": "Contains Duplicate",
-    "topic": "Arrays & Hashing",
-    "difficulty": "Easy",
-    "id": 1,
+  "number-of-islands": {
+    "slug": "number-of-islands",
+    "title": "Number of Islands",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "id": 80,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-03T19:19:19.114Z"
+    "solvedAt": "2026-07-06T08:29:54.349Z"
   }
 }
