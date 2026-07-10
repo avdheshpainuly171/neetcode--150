@@ -87,6 +87,16 @@
     "title": "Maximum Gap",
     "topic": null
   },
+  "number-of-islands": {
+    "difficulty": "Medium",
+    "id": 80,
+    "inNeetCode": true,
+    "slug": "number-of-islands",
+    "solved": true,
+    "solvedAt": "2026-07-06T08:29:54.349Z",
+    "title": "Number of Islands",
+    "topic": "Graphs"
+  },
   "remove-nth-node-from-end-of-list": {
     "difficulty": "Medium",
     "id": 38,
@@ -127,14 +137,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "number-of-islands": {
-    "slug": "number-of-islands",
-    "title": "Number of Islands",
-    "topic": "Graphs",
+  "longest-increasing-subsequence": {
+    "slug": "longest-increasing-subsequence",
+    "title": "Longest Increasing Subsequence",
+    "topic": "1-D Dynamic Programming",
     "difficulty": "Medium",
-    "id": 80,
+    "id": 109,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-06T08:29:54.349Z"
+    "solvedAt": "2026-07-10T20:28:51.002Z"
   }
 }
