@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12/150`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 13/150`
 
-**12 / 150 solved (8%)**
+**13 / 150 solved (9%)**
 
 ## By Topic
 
@@ -24,7 +24,7 @@
 | Backtracking | 0 | 9 | 0% |
 | Graphs | 1 | 13 | 8% |
 | Advanced Graphs | 0 | 6 | 0% |
-| 1-D Dynamic Programming | 1 | 12 | 8% |
+| 1-D Dynamic Programming | 2 | 12 | 17% |
 | 2-D Dynamic Programming | 0 | 11 | 0% |
 | Greedy | 0 | 8 | 0% |
 | Intervals | 0 | 6 | 0% |
@@ -47,6 +47,7 @@
 | 46 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees | 🟢 Easy | 2/7/2026 |
 | 80 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graphs | 🟡 Medium | 6/7/2026 |
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
+| 109 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 1-D Dynamic Programming | 🟡 Medium | 11/7/2026 |
 
 ---
-*Last updated: Mon, 06 Jul 2026 08:29:54 GMT*
+*Last updated: Fri, 10 Jul 2026 20:28:51 GMT*
