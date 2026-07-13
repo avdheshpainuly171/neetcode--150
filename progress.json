@@ -68,6 +68,16 @@
     "title": "Longest Consecutive Sequence",
     "topic": "Arrays & Hashing"
   },
+  "longest-increasing-subsequence": {
+    "difficulty": "Medium",
+    "id": 109,
+    "inNeetCode": true,
+    "slug": "longest-increasing-subsequence",
+    "solved": true,
+    "solvedAt": "2026-07-10T20:28:51.002Z",
+    "title": "Longest Increasing Subsequence",
+    "topic": "1-D Dynamic Programming"
+  },
   "longest-palindromic-substring": {
     "difficulty": "Medium",
     "id": 103,
@@ -137,14 +147,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "longest-increasing-subsequence": {
-    "slug": "longest-increasing-subsequence",
-    "title": "Longest Increasing Subsequence",
-    "topic": "1-D Dynamic Programming",
-    "difficulty": "Medium",
-    "id": 109,
+  "reverse-linked-list": {
+    "slug": "reverse-linked-list",
+    "title": "Reverse Linked List",
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "id": 35,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-10T20:28:51.002Z"
+    "solvedAt": "2026-07-13T23:47:16.979Z"
   }
 }
