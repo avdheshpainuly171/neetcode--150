@@ -127,6 +127,16 @@
     "title": "Reorder List",
     "topic": "Linked List"
   },
+  "reverse-linked-list": {
+    "difficulty": "Easy",
+    "id": 35,
+    "inNeetCode": true,
+    "slug": "reverse-linked-list",
+    "solved": true,
+    "solvedAt": "2026-07-13T23:47:16.979Z",
+    "title": "Reverse Linked List",
+    "topic": "Linked List"
+  },
   "two-sum": {
     "difficulty": "Easy",
     "id": 3,
@@ -147,14 +157,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "reverse-linked-list": {
-    "slug": "reverse-linked-list",
-    "title": "Reverse Linked List",
+  "merge-two-sorted-lists": {
+    "slug": "merge-two-sorted-lists",
+    "title": "Merge Two Sorted Lists",
     "topic": "Linked List",
     "difficulty": "Easy",
-    "id": 35,
+    "id": 36,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-13T23:47:16.979Z"
+    "solvedAt": "2026-07-13T23:55:02.355Z"
   }
 }
