@@ -97,6 +97,16 @@
     "title": "Maximum Gap",
     "topic": null
   },
+  "merge-two-sorted-lists": {
+    "difficulty": "Easy",
+    "id": 36,
+    "inNeetCode": true,
+    "slug": "merge-two-sorted-lists",
+    "solved": true,
+    "solvedAt": "2026-07-13T23:55:02.355Z",
+    "title": "Merge Two Sorted Lists",
+    "topic": "Linked List"
+  },
   "number-of-islands": {
     "difficulty": "Medium",
     "id": 80,
@@ -157,14 +167,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "merge-two-sorted-lists": {
-    "slug": "merge-two-sorted-lists",
-    "title": "Merge Two Sorted Lists",
-    "topic": "Linked List",
+  "single-number": {
+    "slug": "single-number",
+    "title": "Single Number",
+    "topic": "Bit Manipulation",
     "difficulty": "Easy",
-    "id": 36,
+    "id": 144,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-13T23:55:02.355Z"
+    "solvedAt": "2026-07-14T03:50:50.172Z"
   }
 }
