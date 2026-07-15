@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 16/150`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 17/150`
 
-**16 / 150 solved (11%)**
+**17 / 150 solved (11%)**
 
 ## By Topic
 
@@ -29,7 +29,7 @@
 | Greedy | 0 | 8 | 0% |
 | Intervals | 0 | 6 | 0% |
 | Math & Geometry | 0 | 8 | 0% |
-| Bit Manipulation | 1 | 7 | 14% |
+| Bit Manipulation | 2 | 7 | 29% |
 
 ## Solved Problems
 
@@ -51,6 +51,7 @@
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
 | 109 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 1-D Dynamic Programming | 🟡 Medium | 11/7/2026 |
 | 144 | [Single Number](https://leetcode.com/problems/single-number/) | Bit Manipulation | 🟢 Easy | 14/7/2026 |
+| 145 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Bit Manipulation | 🟢 Easy | 15/7/2026 |
 
 ---
-*Last updated: Tue, 14 Jul 2026 03:50:50 GMT*
+*Last updated: Wed, 15 Jul 2026 00:01:06 GMT*
