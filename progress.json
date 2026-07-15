@@ -147,6 +147,16 @@
     "title": "Reverse Linked List",
     "topic": "Linked List"
   },
+  "single-number": {
+    "difficulty": "Easy",
+    "id": 144,
+    "inNeetCode": true,
+    "slug": "single-number",
+    "solved": true,
+    "solvedAt": "2026-07-14T03:50:50.172Z",
+    "title": "Single Number",
+    "topic": "Bit Manipulation"
+  },
   "two-sum": {
     "difficulty": "Easy",
     "id": 3,
@@ -167,14 +177,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "single-number": {
-    "slug": "single-number",
-    "title": "Single Number",
+  "number-of-1-bits": {
+    "slug": "number-of-1-bits",
+    "title": "Number of 1 Bits",
     "topic": "Bit Manipulation",
     "difficulty": "Easy",
-    "id": 144,
+    "id": 145,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-14T03:50:50.172Z"
+    "solvedAt": "2026-07-15T00:01:06.844Z"
   }
 }
