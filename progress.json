@@ -29,6 +29,16 @@
     "title": "Contains Duplicate",
     "topic": "Arrays & Hashing"
   },
+  "counting-bits": {
+    "difficulty": "Easy",
+    "id": 146,
+    "inNeetCode": true,
+    "slug": "counting-bits",
+    "solved": true,
+    "solvedAt": "2026-07-16T14:59:37.557Z",
+    "title": "Counting Bits",
+    "topic": "Bit Manipulation"
+  },
   "find-if-path-exists-in-graph": {
     "difficulty": null,
     "inNeetCode": false,
@@ -187,14 +197,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "counting-bits": {
-    "slug": "counting-bits",
-    "title": "Counting Bits",
+  "reverse-bits": {
+    "slug": "reverse-bits",
+    "title": "Reverse Bits",
     "topic": "Bit Manipulation",
     "difficulty": "Easy",
-    "id": 146,
+    "id": 147,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-16T14:59:37.557Z"
+    "solvedAt": "2026-07-16T15:06:50.900Z"
   }
 }
