@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 18/150`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 19/150`
 
-**18 / 150 solved (12%)**
+**19 / 150 solved (13%)**
 
 ## By Topic
 
@@ -29,7 +29,7 @@
 | Greedy | 0 | 8 | 0% |
 | Intervals | 0 | 6 | 0% |
 | Math & Geometry | 0 | 8 | 0% |
-| Bit Manipulation | 3 | 7 | 43% |
+| Bit Manipulation | 4 | 7 | 57% |
 
 ## Solved Problems
 
@@ -53,6 +53,7 @@
 | 144 | [Single Number](https://leetcode.com/problems/single-number/) | Bit Manipulation | 🟢 Easy | 14/7/2026 |
 | 145 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Bit Manipulation | 🟢 Easy | 15/7/2026 |
 | 146 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Bit Manipulation | 🟢 Easy | 16/7/2026 |
+| 147 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Bit Manipulation | 🟢 Easy | 16/7/2026 |
 
 ---
-*Last updated: Thu, 16 Jul 2026 14:59:37 GMT*
+*Last updated: Thu, 16 Jul 2026 15:06:50 GMT*
