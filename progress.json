@@ -157,6 +157,16 @@
     "title": "Reorder List",
     "topic": "Linked List"
   },
+  "reverse-bits": {
+    "difficulty": "Easy",
+    "id": 147,
+    "inNeetCode": true,
+    "slug": "reverse-bits",
+    "solved": true,
+    "solvedAt": "2026-07-16T15:06:50.900Z",
+    "title": "Reverse Bits",
+    "topic": "Bit Manipulation"
+  },
   "reverse-linked-list": {
     "difficulty": "Easy",
     "id": 35,
@@ -197,14 +207,13 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "reverse-bits": {
-    "slug": "reverse-bits",
-    "title": "Reverse Bits",
-    "topic": "Bit Manipulation",
-    "difficulty": "Easy",
-    "id": 147,
-    "inNeetCode": true,
+  "add-binary": {
+    "slug": "add-binary",
+    "title": "Add Binary",
+    "topic": null,
+    "difficulty": null,
+    "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-16T15:06:50.900Z"
+    "solvedAt": "2026-07-20T23:05:33.849Z"
   }
 }
