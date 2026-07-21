@@ -1,4 +1,13 @@
 {
+  "add-binary": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "add-binary",
+    "solved": true,
+    "solvedAt": "2026-07-20T23:05:33.849Z",
+    "title": "Add Binary",
+    "topic": null
+  },
   "best-time-to-buy-and-sell-stock": {
     "difficulty": "Easy",
     "id": 15,
@@ -207,13 +216,13 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "add-binary": {
-    "slug": "add-binary",
-    "title": "Add Binary",
+  "reverse-string": {
+    "slug": "reverse-string",
+    "title": "Reverse String",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-20T23:05:33.849Z"
+    "solvedAt": "2026-07-21T03:09:16.098Z"
   }
 }
