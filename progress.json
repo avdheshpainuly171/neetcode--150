@@ -186,6 +186,15 @@
     "title": "Reverse Linked List",
     "topic": "Linked List"
   },
+  "reverse-string": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "reverse-string",
+    "solved": true,
+    "solvedAt": "2026-07-21T03:09:16.098Z",
+    "title": "Reverse String",
+    "topic": null
+  },
   "single-number": {
     "difficulty": "Easy",
     "id": 144,
@@ -216,13 +225,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "reverse-string": {
-    "slug": "reverse-string",
-    "title": "Reverse String",
-    "topic": null,
-    "difficulty": null,
-    "inNeetCode": false,
+  "balanced-binary-tree": {
+    "slug": "balanced-binary-tree",
+    "title": "Balanced Binary Tree",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "id": 49,
+    "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-21T03:09:16.098Z"
+    "solvedAt": "2026-07-22T21:47:40.559Z"
   }
 }
