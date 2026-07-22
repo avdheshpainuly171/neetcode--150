@@ -8,6 +8,16 @@
     "title": "Add Binary",
     "topic": null
   },
+  "balanced-binary-tree": {
+    "difficulty": "Easy",
+    "id": 49,
+    "inNeetCode": true,
+    "slug": "balanced-binary-tree",
+    "solved": true,
+    "solvedAt": "2026-07-22T21:47:40.559Z",
+    "title": "Balanced Binary Tree",
+    "topic": "Trees"
+  },
   "best-time-to-buy-and-sell-stock": {
     "difficulty": "Easy",
     "id": 15,
@@ -225,14 +235,13 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "balanced-binary-tree": {
-    "slug": "balanced-binary-tree",
-    "title": "Balanced Binary Tree",
-    "topic": "Trees",
-    "difficulty": "Easy",
-    "id": 49,
-    "inNeetCode": true,
+  "symmetric-tree": {
+    "slug": "symmetric-tree",
+    "title": "Symmetric Tree",
+    "topic": null,
+    "difficulty": null,
+    "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-22T21:47:40.559Z"
+    "solvedAt": "2026-07-22T21:56:58.847Z"
   }
 }
