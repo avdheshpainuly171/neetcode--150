@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 19/150`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 20/150`
 
-**19 / 150 solved (13%)**
+**20 / 150 solved (13%)**
 
 ## By Topic
 
@@ -18,7 +18,7 @@
 | Stack | 0 | 7 | 0% |
 | Binary Search | 0 | 7 | 0% |
 | Linked List | 5 | 11 | 45% |
-| Trees | 1 | 15 | 7% |
+| Trees | 2 | 15 | 13% |
 | Tries | 0 | 3 | 0% |
 | Heap / Priority Queue | 0 | 7 | 0% |
 | Backtracking | 0 | 9 | 0% |
@@ -47,6 +47,7 @@
 | 38 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | 🟡 Medium | 29/6/2026 |
 | 41 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List | 🟢 Easy | 28/6/2026 |
 | 46 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees | 🟢 Easy | 2/7/2026 |
+| 49 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Trees | 🟢 Easy | 23/7/2026 |
 | 80 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graphs | 🟡 Medium | 6/7/2026 |
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
 | 109 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 1-D Dynamic Programming | 🟡 Medium | 11/7/2026 |
@@ -56,4 +57,4 @@
 | 147 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Bit Manipulation | 🟢 Easy | 16/7/2026 |
 
 ---
-*Last updated: Tue, 21 Jul 2026 03:09:16 GMT*
+*Last updated: Wed, 22 Jul 2026 21:47:40 GMT*
