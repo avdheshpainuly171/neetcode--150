@@ -215,6 +215,15 @@
     "title": "Single Number",
     "topic": "Bit Manipulation"
   },
+  "symmetric-tree": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "symmetric-tree",
+    "solved": true,
+    "solvedAt": "2026-07-22T21:56:58.847Z",
+    "title": "Symmetric Tree",
+    "topic": null
+  },
   "two-sum": {
     "difficulty": "Easy",
     "id": 3,
@@ -235,13 +244,14 @@
     "title": "Two Sum II",
     "topic": "Two Pointers"
   },
-  "symmetric-tree": {
-    "slug": "symmetric-tree",
-    "title": "Symmetric Tree",
-    "topic": null,
-    "difficulty": null,
-    "inNeetCode": false,
+  "valid-parentheses": {
+    "slug": "valid-parentheses",
+    "title": "Valid Parentheses",
+    "topic": "Stack",
+    "difficulty": "Easy",
+    "id": 21,
+    "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-22T21:56:58.847Z"
+    "solvedAt": "2026-07-23T00:20:39.519Z"
   }
 }
