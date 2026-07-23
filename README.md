@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 20/150`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 21/150`
 
-**20 / 150 solved (13%)**
+**21 / 150 solved (14%)**
 
 ## By Topic
 
@@ -15,7 +15,7 @@
 | Arrays & Hashing | 3 | 9 | 33% |
 | Two Pointers | 2 | 5 | 40% |
 | Sliding Window | 1 | 6 | 17% |
-| Stack | 0 | 7 | 0% |
+| Stack | 1 | 7 | 14% |
 | Binary Search | 0 | 7 | 0% |
 | Linked List | 5 | 11 | 45% |
 | Trees | 2 | 15 | 13% |
@@ -41,6 +41,7 @@
 | 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | 🟡 Medium | 27/6/2026 |
 | 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | 🟡 Medium | 27/6/2026 |
 | 15 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Sliding Window | 🟢 Easy | 27/6/2026 |
+| 21 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | 🟢 Easy | 23/7/2026 |
 | 35 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | 🟢 Easy | 14/7/2026 |
 | 36 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | 🟢 Easy | 14/7/2026 |
 | 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Linked List | 🟡 Medium | 27/6/2026 |
@@ -57,4 +58,4 @@
 | 147 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Bit Manipulation | 🟢 Easy | 16/7/2026 |
 
 ---
-*Last updated: Wed, 22 Jul 2026 21:56:59 GMT*
+*Last updated: Thu, 23 Jul 2026 00:20:39 GMT*
