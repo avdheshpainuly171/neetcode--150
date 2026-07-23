@@ -245,13 +245,23 @@
     "topic": "Two Pointers"
   },
   "valid-parentheses": {
-    "slug": "valid-parentheses",
-    "title": "Valid Parentheses",
-    "topic": "Stack",
     "difficulty": "Easy",
     "id": 21,
     "inNeetCode": true,
+    "slug": "valid-parentheses",
     "solved": true,
-    "solvedAt": "2026-07-23T00:20:39.519Z"
+    "solvedAt": "2026-07-23T00:20:39.519Z",
+    "title": "Valid Parentheses",
+    "topic": "Stack"
+  },
+  "min-stack": {
+    "slug": "min-stack",
+    "title": "Min Stack",
+    "topic": "Stack",
+    "difficulty": "Medium",
+    "id": 22,
+    "inNeetCode": true,
+    "solved": true,
+    "solvedAt": "2026-07-23T03:57:42.600Z"
   }
 }
