@@ -136,6 +136,16 @@
     "title": "Merge Two Sorted Lists",
     "topic": "Linked List"
   },
+  "min-stack": {
+    "difficulty": "Medium",
+    "id": 22,
+    "inNeetCode": true,
+    "slug": "min-stack",
+    "solved": true,
+    "solvedAt": "2026-07-23T03:57:42.600Z",
+    "title": "Min Stack",
+    "topic": "Stack"
+  },
   "number-of-1-bits": {
     "difficulty": "Easy",
     "id": 145,
@@ -254,14 +264,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "min-stack": {
-    "slug": "min-stack",
-    "title": "Min Stack",
-    "topic": "Stack",
-    "difficulty": "Medium",
-    "id": 22,
-    "inNeetCode": true,
+  "largest-even-number": {
+    "slug": "largest-even-number",
+    "title": "Largest Even Number",
+    "topic": null,
+    "difficulty": null,
+    "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-23T03:57:42.600Z"
+    "solvedAt": "2026-07-24T23:56:20.505Z"
   }
 }
