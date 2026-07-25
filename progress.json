@@ -77,6 +77,15 @@
     "title": "Invert Binary Tree",
     "topic": "Trees"
   },
+  "largest-even-number": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "largest-even-number",
+    "solved": true,
+    "solvedAt": "2026-07-24T23:56:20.505Z",
+    "title": "Largest Even Number",
+    "topic": null
+  },
   "linked-list-cycle": {
     "difficulty": "Easy",
     "id": 41,
@@ -264,13 +273,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "largest-even-number": {
-    "slug": "largest-even-number",
-    "title": "Largest Even Number",
+  "check-balanced-string": {
+    "slug": "check-balanced-string",
+    "title": "Check Balanced String",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-24T23:56:20.505Z"
+    "solvedAt": "2026-07-25T14:44:10.916Z"
   }
 }
