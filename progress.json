@@ -144,6 +144,15 @@
     "title": "Maximum Gap",
     "topic": null
   },
+  "maximum-product-of-three-numbers": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "maximum-product-of-three-numbers",
+    "solved": true,
+    "solvedAt": "2026-07-26T23:13:24.153Z",
+    "title": "Maximum Product of Three Numbers",
+    "topic": null
+  },
   "merge-two-sorted-lists": {
     "difficulty": "Easy",
     "id": 36,
@@ -282,13 +291,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "maximum-product-of-three-numbers": {
-    "slug": "maximum-product-of-three-numbers",
-    "title": "Maximum Product of Three Numbers",
+  "remove-element": {
+    "slug": "remove-element",
+    "title": "Remove Element",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-26T23:13:24.153Z"
+    "solvedAt": "2026-07-26T23:43:36.916Z"
   }
 }
