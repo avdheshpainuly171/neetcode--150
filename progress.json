@@ -193,6 +193,15 @@
     "title": "Number of Islands",
     "topic": "Graphs"
   },
+  "remove-element": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "remove-element",
+    "solved": true,
+    "solvedAt": "2026-07-26T23:43:36.916Z",
+    "title": "Remove Element",
+    "topic": null
+  },
   "remove-nth-node-from-end-of-list": {
     "difficulty": "Medium",
     "id": 38,
@@ -291,13 +300,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "remove-element": {
-    "slug": "remove-element",
-    "title": "Remove Element",
+  "next-permutation": {
+    "slug": "next-permutation",
+    "title": "Next Permutation",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-26T23:43:36.916Z"
+    "solvedAt": "2026-07-27T02:42:04.251Z"
   }
 }
