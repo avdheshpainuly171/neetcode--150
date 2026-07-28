@@ -173,6 +173,15 @@
     "title": "Min Stack",
     "topic": "Stack"
   },
+  "next-permutation": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "next-permutation",
+    "solved": true,
+    "solvedAt": "2026-07-27T02:42:04.251Z",
+    "title": "Next Permutation",
+    "topic": null
+  },
   "number-of-1-bits": {
     "difficulty": "Easy",
     "id": 145,
@@ -300,13 +309,14 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "next-permutation": {
-    "slug": "next-permutation",
-    "title": "Next Permutation",
-    "topic": null,
-    "difficulty": null,
-    "inNeetCode": false,
+  "car-fleet": {
+    "slug": "car-fleet",
+    "title": "Car Fleet",
+    "topic": "Stack",
+    "difficulty": "Medium",
+    "id": 26,
+    "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-07-27T02:42:04.251Z"
+    "solvedAt": "2026-07-28T23:31:42.896Z"
   }
 }
