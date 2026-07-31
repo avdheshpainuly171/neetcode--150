@@ -28,6 +28,16 @@
     "title": "Best Time to Buy and Sell Stock",
     "topic": "Sliding Window"
   },
+  "car-fleet": {
+    "difficulty": "Medium",
+    "id": 26,
+    "inNeetCode": true,
+    "slug": "car-fleet",
+    "solved": true,
+    "solvedAt": "2026-07-28T23:31:42.896Z",
+    "title": "Car Fleet",
+    "topic": "Stack"
+  },
   "check-balanced-string": {
     "difficulty": null,
     "inNeetCode": false,
@@ -309,14 +319,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "car-fleet": {
-    "slug": "car-fleet",
-    "title": "Car Fleet",
-    "topic": "Stack",
-    "difficulty": "Medium",
-    "id": 26,
-    "inNeetCode": true,
+  "boats-to-save-people": {
+    "slug": "boats-to-save-people",
+    "title": "Boats to Save People",
+    "topic": null,
+    "difficulty": null,
+    "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-28T23:31:42.896Z"
+    "solvedAt": "2026-07-31T16:34:36.160Z"
   }
 }
