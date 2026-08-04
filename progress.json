@@ -28,6 +28,15 @@
     "title": "Best Time to Buy and Sell Stock",
     "topic": "Sliding Window"
   },
+  "boats-to-save-people": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "boats-to-save-people",
+    "solved": true,
+    "solvedAt": "2026-07-31T16:34:36.160Z",
+    "title": "Boats to Save People",
+    "topic": null
+  },
   "car-fleet": {
     "difficulty": "Medium",
     "id": 26,
@@ -319,13 +328,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "boats-to-save-people": {
-    "slug": "boats-to-save-people",
-    "title": "Boats to Save People",
+  "minimum-depth-of-binary-tree": {
+    "slug": "minimum-depth-of-binary-tree",
+    "title": "Minimum Depth of Binary Tree",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-07-31T16:34:36.160Z"
+    "solvedAt": "2026-08-04T05:37:39.713Z"
   }
 }
