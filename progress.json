@@ -192,6 +192,15 @@
     "title": "Min Stack",
     "topic": "Stack"
   },
+  "minimum-depth-of-binary-tree": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "minimum-depth-of-binary-tree",
+    "solved": true,
+    "solvedAt": "2026-08-04T05:37:39.713Z",
+    "title": "Minimum Depth of Binary Tree",
+    "topic": null
+  },
   "next-permutation": {
     "difficulty": null,
     "inNeetCode": false,
@@ -328,13 +337,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "minimum-depth-of-binary-tree": {
-    "slug": "minimum-depth-of-binary-tree",
-    "title": "Minimum Depth of Binary Tree",
+  "average-of-levels-in-binary-tree": {
+    "slug": "average-of-levels-in-binary-tree",
+    "title": "Average of Levels in Binary Tree",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-04T05:37:39.713Z"
+    "solvedAt": "2026-08-05T23:15:31.217Z"
   }
 }
