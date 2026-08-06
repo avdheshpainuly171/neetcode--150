@@ -8,6 +8,15 @@
     "title": "Add Binary",
     "topic": null
   },
+  "average-of-levels-in-binary-tree": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "average-of-levels-in-binary-tree",
+    "solved": true,
+    "solvedAt": "2026-08-05T23:15:31.217Z",
+    "title": "Average of Levels in Binary Tree",
+    "topic": null
+  },
   "balanced-binary-tree": {
     "difficulty": "Easy",
     "id": 49,
@@ -337,13 +346,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "average-of-levels-in-binary-tree": {
-    "slug": "average-of-levels-in-binary-tree",
-    "title": "Average of Levels in Binary Tree",
+  "binary-tree-level-order-traversal-ii": {
+    "slug": "binary-tree-level-order-traversal-ii",
+    "title": "Binary Tree Level Order Traversal II",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-05T23:15:31.217Z"
+    "solvedAt": "2026-08-06T23:03:43.398Z"
   }
 }
