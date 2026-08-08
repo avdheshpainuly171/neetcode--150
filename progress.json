@@ -37,6 +37,15 @@
     "title": "Best Time to Buy and Sell Stock",
     "topic": "Sliding Window"
   },
+  "binary-tree-level-order-traversal-ii": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "binary-tree-level-order-traversal-ii",
+    "solved": true,
+    "solvedAt": "2026-08-06T23:03:43.398Z",
+    "title": "Binary Tree Level Order Traversal II",
+    "topic": null
+  },
   "boats-to-save-people": {
     "difficulty": null,
     "inNeetCode": false,
@@ -346,13 +355,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "binary-tree-level-order-traversal-ii": {
-    "slug": "binary-tree-level-order-traversal-ii",
-    "title": "Binary Tree Level Order Traversal II",
+  "find-the-lexicographically-smallest-valid-sequence": {
+    "slug": "find-the-lexicographically-smallest-valid-sequence",
+    "title": "Find the Lexicographically Smallest Valid Sequence",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-06T23:03:43.398Z"
+    "solvedAt": "2026-08-08T17:56:02.227Z"
   }
 }
