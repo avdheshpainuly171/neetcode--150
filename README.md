@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 23/150`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 24/150`
 
-**23 / 150 solved (15%)**
+**24 / 150 solved (16%)**
 
 ## By Topic
 
@@ -22,7 +22,7 @@
 | Tries | 0 | 3 | 0% |
 | Heap / Priority Queue | 0 | 7 | 0% |
 | Backtracking | 0 | 9 | 0% |
-| Graphs | 1 | 13 | 8% |
+| Graphs | 2 | 13 | 15% |
 | Advanced Graphs | 0 | 6 | 0% |
 | 1-D Dynamic Programming | 2 | 12 | 17% |
 | 2-D Dynamic Programming | 0 | 11 | 0% |
@@ -52,6 +52,7 @@
 | 46 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees | 🟢 Easy | 2/7/2026 |
 | 49 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Trees | 🟢 Easy | 23/7/2026 |
 | 80 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graphs | 🟡 Medium | 6/7/2026 |
+| 84 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Graphs | 🟡 Medium | 12/8/2026 |
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
 | 109 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 1-D Dynamic Programming | 🟡 Medium | 11/7/2026 |
 | 144 | [Single Number](https://leetcode.com/problems/single-number/) | Bit Manipulation | 🟢 Easy | 14/7/2026 |
@@ -60,4 +61,4 @@
 | 147 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Bit Manipulation | 🟢 Easy | 16/7/2026 |
 
 ---
-*Last updated: Sat, 08 Aug 2026 17:56:02 GMT*
+*Last updated: Tue, 11 Aug 2026 23:26:08 GMT*
