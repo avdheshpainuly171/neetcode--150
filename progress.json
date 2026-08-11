@@ -113,6 +113,15 @@
     "title": "Find if Path Exists in Graph",
     "topic": null
   },
+  "find-the-lexicographically-smallest-valid-sequence": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "find-the-lexicographically-smallest-valid-sequence",
+    "solved": true,
+    "solvedAt": "2026-08-08T17:56:02.227Z",
+    "title": "Find the Lexicographically Smallest Valid Sequence",
+    "topic": null
+  },
   "invert-binary-tree": {
     "difficulty": "Easy",
     "id": 46,
@@ -355,13 +364,14 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "find-the-lexicographically-smallest-valid-sequence": {
-    "slug": "find-the-lexicographically-smallest-valid-sequence",
-    "title": "Find the Lexicographically Smallest Valid Sequence",
-    "topic": null,
-    "difficulty": null,
-    "inNeetCode": false,
+  "surrounded-regions": {
+    "slug": "surrounded-regions",
+    "title": "Surrounded Regions",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "id": 84,
+    "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-08-08T17:56:02.227Z"
+    "solvedAt": "2026-08-11T23:26:08.031Z"
   }
 }
