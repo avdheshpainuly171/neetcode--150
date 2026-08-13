@@ -325,6 +325,16 @@
     "title": "Single Number",
     "topic": "Bit Manipulation"
   },
+  "surrounded-regions": {
+    "difficulty": "Medium",
+    "id": 84,
+    "inNeetCode": true,
+    "slug": "surrounded-regions",
+    "solved": true,
+    "solvedAt": "2026-08-11T23:26:08.031Z",
+    "title": "Surrounded Regions",
+    "topic": "Graphs"
+  },
   "symmetric-tree": {
     "difficulty": null,
     "inNeetCode": false,
@@ -364,14 +374,14 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "surrounded-regions": {
-    "slug": "surrounded-regions",
-    "title": "Surrounded Regions",
-    "topic": "Graphs",
+  "maximum-subarray": {
+    "slug": "maximum-subarray",
+    "title": "Maximum Subarray",
+    "topic": "Greedy",
     "difficulty": "Medium",
-    "id": 84,
+    "id": 122,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-08-11T23:26:08.031Z"
+    "solvedAt": "2026-08-13T03:07:46.533Z"
   }
 }
