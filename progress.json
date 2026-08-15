@@ -199,6 +199,16 @@
     "title": "Maximum Product of Three Numbers",
     "topic": null
   },
+  "maximum-subarray": {
+    "difficulty": "Medium",
+    "id": 122,
+    "inNeetCode": true,
+    "slug": "maximum-subarray",
+    "solved": true,
+    "solvedAt": "2026-08-13T03:07:46.533Z",
+    "title": "Maximum Subarray",
+    "topic": "Greedy"
+  },
   "merge-two-sorted-lists": {
     "difficulty": "Easy",
     "id": 36,
@@ -374,14 +384,14 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "maximum-subarray": {
-    "slug": "maximum-subarray",
-    "title": "Maximum Subarray",
+  "jump-game": {
+    "slug": "jump-game",
+    "title": "Jump Game",
     "topic": "Greedy",
     "difficulty": "Medium",
-    "id": 122,
+    "id": 123,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-08-13T03:07:46.533Z"
+    "solvedAt": "2026-08-15T14:49:37.262Z"
   }
 }
