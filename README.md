@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 25/150`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 26/150`
 
-**25 / 150 solved (17%)**
+**26 / 150 solved (17%)**
 
 ## By Topic
 
@@ -26,7 +26,7 @@
 | Advanced Graphs | 0 | 6 | 0% |
 | 1-D Dynamic Programming | 2 | 12 | 17% |
 | 2-D Dynamic Programming | 0 | 11 | 0% |
-| Greedy | 1 | 8 | 13% |
+| Greedy | 2 | 8 | 25% |
 | Intervals | 0 | 6 | 0% |
 | Math & Geometry | 0 | 8 | 0% |
 | Bit Manipulation | 4 | 7 | 57% |
@@ -56,10 +56,11 @@
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
 | 109 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 1-D Dynamic Programming | 🟡 Medium | 11/7/2026 |
 | 122 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Greedy | 🟡 Medium | 13/8/2026 |
+| 123 | [Jump Game](https://leetcode.com/problems/jump-game/) | Greedy | 🟡 Medium | 15/8/2026 |
 | 144 | [Single Number](https://leetcode.com/problems/single-number/) | Bit Manipulation | 🟢 Easy | 14/7/2026 |
 | 145 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Bit Manipulation | 🟢 Easy | 15/7/2026 |
 | 146 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Bit Manipulation | 🟢 Easy | 16/7/2026 |
 | 147 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Bit Manipulation | 🟢 Easy | 16/7/2026 |
 
 ---
-*Last updated: Thu, 13 Aug 2026 03:07:46 GMT*
+*Last updated: Sat, 15 Aug 2026 14:49:37 GMT*
