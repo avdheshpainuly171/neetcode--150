@@ -132,6 +132,16 @@
     "title": "Invert Binary Tree",
     "topic": "Trees"
   },
+  "jump-game": {
+    "difficulty": "Medium",
+    "id": 123,
+    "inNeetCode": true,
+    "slug": "jump-game",
+    "solved": true,
+    "solvedAt": "2026-08-15T14:49:37.262Z",
+    "title": "Jump Game",
+    "topic": "Greedy"
+  },
   "largest-even-number": {
     "difficulty": null,
     "inNeetCode": false,
@@ -384,14 +394,14 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "jump-game": {
-    "slug": "jump-game",
-    "title": "Jump Game",
+  "jump-game-ii": {
+    "slug": "jump-game-ii",
+    "title": "Jump Game II",
     "topic": "Greedy",
     "difficulty": "Medium",
-    "id": 123,
+    "id": 124,
     "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-08-15T14:49:37.262Z"
+    "solvedAt": "2026-08-18T23:48:29.960Z"
   }
 }
