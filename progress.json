@@ -142,6 +142,16 @@
     "title": "Jump Game",
     "topic": "Greedy"
   },
+  "jump-game-ii": {
+    "difficulty": "Medium",
+    "id": 124,
+    "inNeetCode": true,
+    "slug": "jump-game-ii",
+    "solved": true,
+    "solvedAt": "2026-08-18T23:48:29.960Z",
+    "title": "Jump Game II",
+    "topic": "Greedy"
+  },
   "largest-even-number": {
     "difficulty": null,
     "inNeetCode": false,
@@ -394,14 +404,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "jump-game-ii": {
-    "slug": "jump-game-ii",
-    "title": "Jump Game II",
-    "topic": "Greedy",
-    "difficulty": "Medium",
-    "id": 124,
-    "inNeetCode": true,
+  "cinema-seat-allocation": {
+    "slug": "cinema-seat-allocation",
+    "title": "Cinema Seat Allocation",
+    "topic": null,
+    "difficulty": null,
+    "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-18T23:48:29.960Z"
+    "solvedAt": "2026-08-19T23:51:03.718Z"
   }
 }
