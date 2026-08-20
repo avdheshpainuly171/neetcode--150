@@ -74,6 +74,15 @@
     "title": "Check Balanced String",
     "topic": null
   },
+  "cinema-seat-allocation": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "cinema-seat-allocation",
+    "solved": true,
+    "solvedAt": "2026-08-19T23:51:03.718Z",
+    "title": "Cinema Seat Allocation",
+    "topic": null
+  },
   "container-with-most-water": {
     "difficulty": "Medium",
     "id": 13,
@@ -404,13 +413,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "cinema-seat-allocation": {
-    "slug": "cinema-seat-allocation",
-    "title": "Cinema Seat Allocation",
+  "number-of-subsequences-that-satisfy-the-given-sum-condition": {
+    "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+    "title": "Number of Subsequences That Satisfy the Given Sum Condition",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-19T23:51:03.718Z"
+    "solvedAt": "2026-08-20T15:54:34.628Z"
   }
 }
