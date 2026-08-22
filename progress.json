@@ -296,6 +296,15 @@
     "title": "Number of Islands",
     "topic": "Graphs"
   },
+  "number-of-subsequences-that-satisfy-the-given-sum-condition": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+    "solved": true,
+    "solvedAt": "2026-08-20T15:54:34.628Z",
+    "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+    "topic": null
+  },
   "remove-element": {
     "difficulty": null,
     "inNeetCode": false,
@@ -413,13 +422,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "number-of-subsequences-that-satisfy-the-given-sum-condition": {
-    "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
-    "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+  "basic-calculator-ii": {
+    "slug": "basic-calculator-ii",
+    "title": "Basic Calculator II",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-20T15:54:34.628Z"
+    "solvedAt": "2026-08-22T16:41:54.602Z"
   }
 }
