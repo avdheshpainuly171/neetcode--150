@@ -27,6 +27,15 @@
     "title": "Balanced Binary Tree",
     "topic": "Trees"
   },
+  "basic-calculator-ii": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "basic-calculator-ii",
+    "solved": true,
+    "solvedAt": "2026-08-22T16:41:54.602Z",
+    "title": "Basic Calculator II",
+    "topic": null
+  },
   "best-time-to-buy-and-sell-stock": {
     "difficulty": "Easy",
     "id": 15,
@@ -422,13 +431,14 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "basic-calculator-ii": {
-    "slug": "basic-calculator-ii",
-    "title": "Basic Calculator II",
-    "topic": null,
-    "difficulty": null,
-    "inNeetCode": false,
+  "binary-tree-right-side-view": {
+    "slug": "binary-tree-right-side-view",
+    "title": "Binary Tree Right Side View",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "id": 54,
+    "inNeetCode": true,
     "solved": true,
-    "solvedAt": "2026-08-22T16:41:54.602Z"
+    "solvedAt": "2026-08-23T23:47:04.706Z"
   }
 }
