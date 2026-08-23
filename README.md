@@ -4,9 +4,9 @@
 
 ## Overall Progress
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 27/150`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 28/150`
 
-**27 / 150 solved (18%)**
+**28 / 150 solved (19%)**
 
 ## By Topic
 
@@ -18,7 +18,7 @@
 | Stack | 3 | 7 | 43% |
 | Binary Search | 0 | 7 | 0% |
 | Linked List | 5 | 11 | 45% |
-| Trees | 2 | 15 | 13% |
+| Trees | 3 | 15 | 20% |
 | Tries | 0 | 3 | 0% |
 | Heap / Priority Queue | 0 | 7 | 0% |
 | Backtracking | 0 | 9 | 0% |
@@ -51,6 +51,7 @@
 | 41 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List | 🟢 Easy | 28/6/2026 |
 | 46 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees | 🟢 Easy | 2/7/2026 |
 | 49 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Trees | 🟢 Easy | 23/7/2026 |
+| 54 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Trees | 🟡 Medium | 24/8/2026 |
 | 80 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graphs | 🟡 Medium | 6/7/2026 |
 | 84 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Graphs | 🟡 Medium | 12/8/2026 |
 | 103 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 1-D Dynamic Programming | 🟡 Medium | 1/7/2026 |
@@ -64,4 +65,4 @@
 | 147 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Bit Manipulation | 🟢 Easy | 16/7/2026 |
 
 ---
-*Last updated: Sat, 22 Aug 2026 16:41:54 GMT*
+*Last updated: Sun, 23 Aug 2026 23:47:04 GMT*
