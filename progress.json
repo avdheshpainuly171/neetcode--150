@@ -55,6 +55,16 @@
     "title": "Binary Tree Level Order Traversal II",
     "topic": null
   },
+  "binary-tree-right-side-view": {
+    "difficulty": "Medium",
+    "id": 54,
+    "inNeetCode": true,
+    "slug": "binary-tree-right-side-view",
+    "solved": true,
+    "solvedAt": "2026-08-23T23:47:04.706Z",
+    "title": "Binary Tree Right Side View",
+    "topic": "Trees"
+  },
   "boats-to-save-people": {
     "difficulty": null,
     "inNeetCode": false,
@@ -431,14 +441,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "binary-tree-right-side-view": {
-    "slug": "binary-tree-right-side-view",
-    "title": "Binary Tree Right Side View",
-    "topic": "Trees",
-    "difficulty": "Medium",
-    "id": 54,
-    "inNeetCode": true,
+  "lowest-common-ancestor-of-a-binary-tree": {
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "topic": null,
+    "difficulty": null,
+    "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-23T23:47:04.706Z"
+    "solvedAt": "2026-08-24T22:48:57.833Z"
   }
 }
