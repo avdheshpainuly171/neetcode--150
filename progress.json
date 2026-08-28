@@ -229,6 +229,15 @@
     "title": "Longest Palindromic Substring",
     "topic": "1-D Dynamic Programming"
   },
+  "lowest-common-ancestor-of-a-binary-tree": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "solved": true,
+    "solvedAt": "2026-08-24T22:48:57.833Z",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "topic": null
+  },
   "maximum-gap": {
     "difficulty": null,
     "inNeetCode": false,
@@ -441,13 +450,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "lowest-common-ancestor-of-a-binary-tree": {
-    "slug": "lowest-common-ancestor-of-a-binary-tree",
-    "title": "Lowest Common Ancestor of a Binary Tree",
+  "convert-sorted-list-to-binary-search-tree": {
+    "slug": "convert-sorted-list-to-binary-search-tree",
+    "title": "Convert Sorted List to Binary Search Tree",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-24T22:48:57.833Z"
+    "solvedAt": "2026-08-28T18:41:50.946Z"
   }
 }
