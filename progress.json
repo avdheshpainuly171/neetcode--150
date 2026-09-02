@@ -122,6 +122,15 @@
     "title": "Contains Duplicate",
     "topic": "Arrays & Hashing"
   },
+  "convert-sorted-list-to-binary-search-tree": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "convert-sorted-list-to-binary-search-tree",
+    "solved": true,
+    "solvedAt": "2026-08-28T18:41:50.946Z",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "topic": null
+  },
   "counting-bits": {
     "difficulty": "Easy",
     "id": 146,
@@ -450,13 +459,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "convert-sorted-list-to-binary-search-tree": {
-    "slug": "convert-sorted-list-to-binary-search-tree",
-    "title": "Convert Sorted List to Binary Search Tree",
+  "delete-node-in-a-bst": {
+    "slug": "delete-node-in-a-bst",
+    "title": "Delete Node in a BST",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-08-28T18:41:50.946Z"
+    "solvedAt": "2026-09-02T23:52:24.220Z"
   }
 }
