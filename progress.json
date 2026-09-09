@@ -419,6 +419,15 @@
     "title": "Single Number",
     "topic": "Bit Manipulation"
   },
+  "smallest-stable-index-ii": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "smallest-stable-index-ii",
+    "solved": true,
+    "solvedAt": "2026-09-05T19:06:07.897Z",
+    "title": "Smallest Stable Index II",
+    "topic": null
+  },
   "surrounded-regions": {
     "difficulty": "Medium",
     "id": 84,
@@ -468,13 +477,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "smallest-stable-index-ii": {
-    "slug": "smallest-stable-index-ii",
-    "title": "Smallest Stable Index II",
+  "count-commas-in-range-ii": {
+    "slug": "count-commas-in-range-ii",
+    "title": "Count Commas in Range II",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-09-05T19:06:07.897Z"
+    "solvedAt": "2026-09-09T23:55:18.766Z"
   }
 }
