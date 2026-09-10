@@ -131,6 +131,15 @@
     "title": "Convert Sorted List to Binary Search Tree",
     "topic": null
   },
+  "count-commas-in-range-ii": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "count-commas-in-range-ii",
+    "solved": true,
+    "solvedAt": "2026-09-09T23:55:18.766Z",
+    "title": "Count Commas in Range II",
+    "topic": null
+  },
   "counting-bits": {
     "difficulty": "Easy",
     "id": 146,
@@ -477,13 +486,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "count-commas-in-range-ii": {
-    "slug": "count-commas-in-range-ii",
-    "title": "Count Commas in Range II",
+  "count-nodes-equal-to-average-of-subtree": {
+    "slug": "count-nodes-equal-to-average-of-subtree",
+    "title": "Count Nodes Equal to Average of Subtree",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-09-09T23:55:18.766Z"
+    "solvedAt": "2026-09-10T23:49:33.324Z"
   }
 }
