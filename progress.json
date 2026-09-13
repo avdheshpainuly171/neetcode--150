@@ -140,6 +140,15 @@
     "title": "Count Commas in Range II",
     "topic": null
   },
+  "count-nodes-equal-to-average-of-subtree": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "count-nodes-equal-to-average-of-subtree",
+    "solved": true,
+    "solvedAt": "2026-09-10T23:49:33.324Z",
+    "title": "Count Nodes Equal to Average of Subtree",
+    "topic": null
+  },
   "counting-bits": {
     "difficulty": "Easy",
     "id": 146,
@@ -486,13 +495,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "count-nodes-equal-to-average-of-subtree": {
-    "slug": "count-nodes-equal-to-average-of-subtree",
-    "title": "Count Nodes Equal to Average of Subtree",
+  "image-overlap": {
+    "slug": "image-overlap",
+    "title": "Image Overlap",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-09-10T23:49:33.324Z"
+    "solvedAt": "2026-09-13T23:51:11.823Z"
   }
 }
