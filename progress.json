@@ -186,6 +186,15 @@
     "title": "Find the Lexicographically Smallest Valid Sequence",
     "topic": null
   },
+  "image-overlap": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "image-overlap",
+    "solved": true,
+    "solvedAt": "2026-09-13T23:51:11.823Z",
+    "title": "Image Overlap",
+    "topic": null
+  },
   "invert-binary-tree": {
     "difficulty": "Easy",
     "id": 46,
@@ -495,13 +504,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "image-overlap": {
-    "slug": "image-overlap",
-    "title": "Image Overlap",
+  "smallest-stable-index-i": {
+    "slug": "smallest-stable-index-i",
+    "title": "Smallest Stable Index I",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-09-13T23:51:11.823Z"
+    "solvedAt": "2026-09-14T01:23:53.777Z"
   }
 }
