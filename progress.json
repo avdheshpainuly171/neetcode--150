@@ -446,6 +446,15 @@
     "title": "Single Number",
     "topic": "Bit Manipulation"
   },
+  "smallest-stable-index-i": {
+    "difficulty": null,
+    "inNeetCode": false,
+    "slug": "smallest-stable-index-i",
+    "solved": true,
+    "solvedAt": "2026-09-14T01:23:53.777Z",
+    "title": "Smallest Stable Index I",
+    "topic": null
+  },
   "smallest-stable-index-ii": {
     "difficulty": null,
     "inNeetCode": false,
@@ -504,13 +513,13 @@
     "title": "Valid Parentheses",
     "topic": "Stack"
   },
-  "smallest-stable-index-i": {
-    "slug": "smallest-stable-index-i",
-    "title": "Smallest Stable Index I",
+  "number-of-intersecting-interval-pairs-i": {
+    "slug": "number-of-intersecting-interval-pairs-i",
+    "title": "Number of Intersecting Interval Pairs I",
     "topic": null,
     "difficulty": null,
     "inNeetCode": false,
     "solved": true,
-    "solvedAt": "2026-09-14T01:23:53.777Z"
+    "solvedAt": "2026-09-21T23:53:33.476Z"
   }
 }
